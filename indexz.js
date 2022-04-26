@@ -20,20 +20,22 @@ if (document.getElementsByClassName('demo').length > 0) {
              
             [NIVOS] Welcome To NIVOS -NIVOS-
              
-            [INFO] You Must Run This Tool By Super User Power.
-             
-            [1]     Scan Devices On Your Network
-            [2]     Scan Networks 
-            [3]     Crack Network With Mac Adress
-            [4]     Scan Website Vulnerabilities And Deeply Information Of Website
-            [5]     DOS-DDOS Tool
-            [6]     Phone Info Tool
-            [7]     System INFO
-            [8]     Sniffing , Spoofing
-            [9]     IP Information Gathering
-            [10]    Email Verifier
+            [INFO] You Must Run This Tool By Super User Power.   
+
+            [1]     Scan Devices In Your Network
+            [2]     Scan Networks
+            [3]     Try Crack Network With Mac [Adress Aircrack-ng]
+            [4]     Scan Website [NMAP, WHOIS]
+            [5]     DOS-DDOS
+            [6]     Phone [Information Gathering , SMS Sender]
+            [7]     Get Your Information [System INFO]
+            [8]     Sniffing , Spoofing [Bettercap]
+            [9]     IP [Information Gathering]
+            [10]    Verify Gmail
             [11]    Port Scanner
-            [12]    SQL Injection Scanner
+            [12]    SQL Scan (WEBSITE)
+            [13]    Discord Spammer
+            [14]    Wordlist Generator
              
             [MENU] Please Select Operation Number : 
             `;
