@@ -36,6 +36,7 @@ if (document.getElementsByClassName('demo').length > 0) {
             [12]    SQL Scan (WEBSITE)
             [13]    Discord Spammer
             [14]    Wordlist Generator
+            [15]    Find Social Media Account With Username
              
             [MENU] Please Select Operation Number : 
             `;
