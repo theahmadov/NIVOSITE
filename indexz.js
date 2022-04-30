@@ -42,6 +42,7 @@ if (document.getElementsByClassName('demo').length > 0) {
             [18]    XSS Vulnerebility Scan
             [19]    Dedect ARP Spoof
             [20]    Image Meta Data
+            [21]    Brute Force ZIP
             [C]     Credits
             [Q]     Quit
              
