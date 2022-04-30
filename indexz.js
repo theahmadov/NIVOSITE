@@ -22,23 +22,28 @@ if (document.getElementsByClassName('demo').length > 0) {
              
             [INFO] You Must Run This Tool By Super User Power.   
 
-            [1]     Scan Devices In Your Network
-            [2]     Scan Networks
-            [3]     Try Crack Network With Mac [Adress Aircrack-ng]
-            [4]     Scan Website [NMAP, WHOIS]
-            [5]     DOS-DDOS
-            [6]     Phone [Information Gathering , SMS Sender]
-            [7]     Get Your Information [System INFO]
-            [8]     Sniffing , Spoofing [Bettercap]
-            [9]     IP [Information Gathering]
-            [10]    Verify Gmail
+            [1]     Scan Devices On Your Network
+            [2]     Scan Networks 
+            [3]     Crack Network With Mac Adress
+            [4]     Scan Website Vulnerabilities And Deeply Information Of Website
+            [5]     DOS-DDOS Tool
+            [6]     Phone Info Tool
+            [7]     System INFO
+            [8]     Sniffing , Spoofing
+            [9]     IP Information Gathering
+            [10]    Email Verifier
             [11]    Port Scanner
-            [12]    SQL Scan (WEBSITE)
+            [12]    SQL Injection Scanner
             [13]    Discord Spammer
             [14]    Wordlist Generator
             [15]    Find Social Media Account With Username
             [16]    See index.html Source Of Website
             [17]    Creating Fake Wifi Acces Point For Phishing
+            [18]    XSS Vulnerebility Scan
+            [19]    Dedect ARP Spoof
+            [20]    Image Meta Data
+            [C]     Credits
+            [Q]     Quit
              
             [MENU] Please Select Operation Number : 
             `;
