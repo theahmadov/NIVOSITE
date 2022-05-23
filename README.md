@@ -5,13 +5,6 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=TheSadError.TheSadError)
 
 
-<div>
-  <p align="center">
-    <img src="Images/s8a.png" width="800"> 
-  </p>
-</div>
-
-
 NIVOS is a hacking tool that allows you to scan deeply , crack wifi, see people on your network. It applies to all linux operating systems. And it is improving every day, new packages are added. Thank You For Using NIVOS :> [NIVOS Created By NIVO Team]
 
 ## Installation & Setup
